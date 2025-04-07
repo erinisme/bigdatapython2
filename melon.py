@@ -40,3 +40,5 @@ else:
             print(f"Error: {e}")
             continue  # 오류 발생 시 건너뜀
         
+
+        
